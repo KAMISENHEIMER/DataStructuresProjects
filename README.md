@@ -9,5 +9,5 @@ Assignment Guide:
 * Assignment 6 - Linked List
 * Assignment 7 - Hash Table
 * Assignment 8 - Binary Search Tree
-* Challenge 2 - First In Last Out (Queue) & Hash Table w/ Separate Chaining
+* Challenge 2 - First In First Out (Queue) & Hash Table w/ Separate Chaining
 * Final - Graphs (Unweighted, Undirected)
