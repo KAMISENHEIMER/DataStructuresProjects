@@ -1,5 +1,6 @@
-# Data Structures Projects
+Data Structures Projects
 Projects I worked on in Data Structures (COSC-2436) Class at ACC
+
 Assignment 1 - Git & GitHub
 Assignment 2 - Hello World
 Assignment 3 - Classes & Objects
