@@ -1,0 +1,1 @@
+This is a collection of the projects I created while taking Data Structures 2436
